@@ -1,15 +1,16 @@
 body {
-  font-family: sans-serif;
+font-family: 'Raleway Dots', cursive;
 
 }
 
 h1{
 font-size: 3em;
 margin-bottom: 1em;
+text-align: center;
 }
 
 h2{
-font-size: 2em;
+font-size: 1.7em;
 margin-bottom: 0.65em;
 }
 
@@ -17,3 +18,46 @@ figcaption{
   font-size: 0.75em;
   font-style: italic;
 }
+
+header{
+      font-family: 'Abril Fatface', cursive;
+}
+
+.photos-feature {
+font-family: 'Raleway Dots', cursive;
+}
+
+.project-feature {
+font-family: 'Raleway Dots', cursive;
+}
+
+#photos {
+      font-family: 'Abril Fatface', cursive;
+}
+#projects {
+      font-family: 'Abril Fatface', cursive;
+      text-align: center;
+}
+
+#about {
+      font-family: 'Abril Fatface', cursive;
+      text-align: center;
+}
+#contact {
+      font-family: 'Abril Fatface', cursive;
+      text-align: center;
+}
+
+#contact ul {
+  line-height: 5;
+  font-size: 1.2em;
+}
+#about p{
+  font-family: 'Raleway Dots', cursive;
+  font-size: 2em;
+  color: black;
+  text-align: center;
+  line-height: 2;
+}
+#photos h1{
+  text-align: center;
