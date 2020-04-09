@@ -24,6 +24,11 @@ margin-left: 40em;
 line-height: 8;
 }
 
+.backtop{
+  font-family: 'Abril Fatface', cursive;
+  margin-left: 692px;
+}
+
 figcaption{
   font-size: 0.75em;
   font-style: italic;
