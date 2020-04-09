@@ -35,7 +35,6 @@ justify-content: space-around;
 
 #projects{
   padding: 5em;
-
 }
 
 #about{
@@ -137,8 +136,8 @@ img {
 
   #main-menu{
     position: static;
-      background: transparent;
-      width: 100%
+    background: transparent;
+    width: 100%
   }
   #main-menu ul{
     display: flex;
@@ -147,10 +146,10 @@ img {
     margin: auto; }
 
 .menu-toggle{
-  display:none;
+   display:none;
 
 }
 
 .close-menu{
-  display: none;
+   display: none;
 }
