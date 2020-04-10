@@ -26,7 +26,8 @@ line-height: 8;
 
 .backtop{
   font-family: 'Abril Fatface', cursive;
-  margin-left: 692px;
+  text-align: center;
+  display: block;
 }
 
 figcaption{
